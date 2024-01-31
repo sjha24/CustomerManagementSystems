@@ -1,5 +1,55 @@
 # CustomerManagementSystems
 
+## Project Summary
+This repository contains a CRUD application for managing customers. The backend is built with Spring Boot and MySQL, featuring JWT Bearer token-based authentication. The frontend is integrated using HTML, CSS, JavaScript, React.js, Bootstrap,Router and axios, allowing users to interact with the backend APIs.
+
+## Technology Used
+* Java
+* Spring boot
+* Hibernate
+* MySQL
+* HTML
+* CSS
+* JS
+* React.js
+* Bootstrap
+* React-Router
+* axios
+
+## Dependecies
+ Following Dependecies are Required to run the project
+
+ * Springboot Dev Tools
+ * Spring Web
+ * Lombok
+ * MySQL
+ * Validation
+ * Spring Security
+ * Spring Data Jpa
+
+## Table Created
+* user `for authentication Purpose`
+* Customer
+## Table Contents
+ `Customer`
+ * uuId ` Unique Identification for each User `
+ * first_name `First Name of the Customer`
+ * last_name `Last Name of the Customer`
+ * Street `Street Name`
+ * address `Full Address of The customer`
+ * city `City of the customer`
+ * state `state of the customer`
+ * email `email of the customer`
+ * phone `phone number of the customer`
+
+   `User`
+ * Id `id of the user which is auto generated`
+ * name `name of the user`
+ * email `email of the user`
+ * password `password of the user`
+ * role `role of the user`
+
+
 ## User Registration
 ![Screenshot (268)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/506a2b9e-8a85-4eeb-a51a-0c865cd68a0b)
 
@@ -22,3 +72,6 @@
 ## Customer Update By Id
 
 ![Screenshot (271)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/7e466def-d142-4ed3-a2e7-5c375c2601fe)
+
+# Author
+
