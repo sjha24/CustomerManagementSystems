@@ -7,6 +7,10 @@
 ## Login Page
 ![Screenshot (267)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/c528ba92-2aaa-44b4-9511-8f051edef9ab)
 
+## Add New Customer
+![Screenshot (276)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/96ff0951-e113-414d-a4b9-7b26e85a43b4)
+
+
 ## Search By First Name
 ![Screenshot (269)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/ce655512-3486-4761-b9c7-a674562b71b7)
 
