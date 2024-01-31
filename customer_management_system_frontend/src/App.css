@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.search>input{
+  width: 15vw;
+  height: 6vh;
+}
+.search>select{
+  width: 9vw;
+  height: 6vh;
+  background-color:#B7CAEA;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.heading>.headTop{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 12vh;
+  background-color: aqua;
+}
+.name{
+  margin: 5px;
+}
