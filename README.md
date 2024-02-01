@@ -73,13 +73,17 @@ POST/login : login user useing email and password after user successfully login 
   ```
 
 ## User Registration
+* User can register hear
 ![Screenshot (268)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/506a2b9e-8a85-4eeb-a51a-0c865cd68a0b)
 
 
 ## Login Page
+* User can login with giving email or password
+* if given data is correct than Jwt token generated 
 ![Screenshot (267)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/c528ba92-2aaa-44b4-9511-8f051edef9ab)
 
 ## Add New Customer
+* Authenticated user can add new customer
 ![Screenshot (276)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/96ff0951-e113-414d-a4b9-7b26e85a43b4)
 
 
@@ -87,6 +91,11 @@ POST/login : login user useing email and password after user successfully login 
 ![Screenshot (269)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/ce655512-3486-4761-b9c7-a674562b71b7)
 
 ## Other Searching Options
+* user can find customer through
+ `  search by first name`
+ ` search by email`
+ ` search by city`
+ ` search by phone number`
 ![Screenshot (272)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/3c31cbd6-d1e6-48b0-9e30-4b9e8845c250)
 
 
