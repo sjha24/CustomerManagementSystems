@@ -96,6 +96,11 @@ POST/login : login user useing email and password after user successfully login 
  ` search by email`
  ` search by city`
  ` search by phone number`
+## List of Customers
+ * `Page` - Page in well structured through pagination method
+ * `Size` - pagination
+ * `search` - user can search customer by first name, email , city and phone number
+
 ![Screenshot (272)](https://github.com/sjha24/CustomerManagementSystems/assets/98340874/3c31cbd6-d1e6-48b0-9e30-4b9e8845c250)
 
 
