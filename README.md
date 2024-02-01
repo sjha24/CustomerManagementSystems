@@ -1,7 +1,7 @@
 # CustomerManagementSystems
 
 ## Project Summary
-This repository contains a CRUD application for managing customers. The backend is built with Spring Boot and MySQL, featuring JWT Bearer token-based authentication. The frontend is integrated using HTML, CSS, JavaScript, React.js, Bootstrap,Router and axios, allowing users to interact with the backend APIs.
+This repository contains a CRUD application for managing customers. The backend is built with Spring Boot and MySQL, featuring JWT Bearer token-based authentication. The frontend is integrated using HTML, CSS, JavaScript, React.js, Bootstrap,Router and axios, allowing users to interact with the backend APIs.only Authnticated user can do CRUD Operation on Customer 
 
 ## Technology Used
 * Java
